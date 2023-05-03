@@ -1,0 +1,995 @@
+;Toneladas_Pedidas;Destino
+0;6.0;Junín
+1;10.0;Junín
+2;5.0;Junín
+3;10.0;Junín
+4;9.0;Junín
+5;9.0;Junín
+6;6.0;Junín
+7;5.0;Junín
+8;12.0;Junín
+10;4.0;Junín
+11;6.0;Junín
+13;6.0;Junín
+14;5.0;Junín
+15;6.0;Junín
+16;7.0;Junín
+17;11.0;Junín
+18;11.0;Junín
+19;3.0;Junín
+20;12.0;Junín
+21;11.0;Junín
+22;9.0;Junín
+23;3.0;Junín
+24;3.0;Junín
+25;9.0;Junín
+26;5.0;Junín
+27;3.0;Junín
+28;12.0;Junín
+29;5.0;Junín
+30;4.0;Junín
+31;7.0;Junín
+32;5.0;Junín
+33;11.0;Junín
+34;9.0;Junín
+35;4.0;Junín
+36;11.0;Junín
+37;9.0;Junín
+38;10.0;Junín
+39;6.0;Junín
+40;8.0;Junín
+41;9.0;Junín
+42;6.0;Junín
+43;12.0;Junín
+44;12.0;Junín
+45;7.0;Junín
+46;8.0;Junín
+47;3.0;Junín
+48;12.0;Junín
+49;10.0;Junín
+50;4.0;Junín
+51;9.0;Junín
+52;10.0;Junín
+53;5.0;Junín
+54;11.0;Junín
+55;12.0;Junín
+56;5.0;Junín
+57;12.0;Junín
+58;12.0;Junín
+59;8.0;Junín
+60;8.0;Junín
+61;9.0;Junín
+62;7.0;Junín
+63;8.0;Junín
+64;8.0;Junín
+65;11.0;Junín
+66;3.0;Junín
+67;3.0;Junín
+68;8.0;Junín
+69;7.0;Junín
+70;5.0;Junín
+71;3.0;Junín
+73;12.0;Junín
+74;9.0;Junín
+75;4.0;Junín
+76;8.0;Junín
+77;8.0;Junín
+78;7.0;Junín
+79;4.0;Junín
+80;7.0;Junín
+81;5.0;Junín
+82;6.0;Junín
+83;9.0;Junín
+84;7.0;Junín
+85;7.0;Junín
+86;3.0;Junín
+87;7.0;Junín
+88;7.0;Junín
+89;3.0;Junín
+90;7.0;Junín
+91;11.0;Junín
+92;9.0;Junín
+93;9.0;Junín
+94;6.0;Junín
+95;9.0;Junín
+96;7.0;Junín
+97;12.0;Junín
+98;9.0;Junín
+99;9.0;Junín
+100;6.0;Junín
+101;3.0;Junín
+102;11.0;Junín
+103;9.0;Junín
+104;7.0;Junín
+105;4.0;Junín
+106;8.0;Junín
+107;6.0;Junín
+108;11.0;Junín
+109;5.0;Junín
+110;7.0;Junín
+111;5.0;Junín
+112;12.0;Junín
+113;5.0;Junín
+114;11.0;Junín
+115;11.0;Junín
+116;6.0;Junín
+117;9.0;Junín
+118;7.0;Junín
+119;3.0;Junín
+120;12.0;Junín
+121;6.0;Junín
+122;7.0;Junín
+123;7.0;Junín
+124;3.0;Junín
+125;8.0;Junín
+126;10.0;Junín
+127;10.0;Junín
+128;5.0;Junín
+129;9.0;Junín
+130;10.0;Junín
+131;8.0;Junín
+132;7.0;Junín
+133;8.0;Junín
+134;10.0;Junín
+135;7.0;Junín
+136;6.0;Junín
+137;12.0;Junín
+138;10.0;Junín
+139;4.0;Junín
+140;6.0;Junín
+141;10.0;Junín
+142;5.0;Junín
+143;10.0;Junín
+144;3.0;Junín
+145;5.0;Junín
+146;12.0;Junín
+147;3.0;Junín
+148;6.0;Junín
+149;6.0;Junín
+150;12.0;Junín
+151;10.0;Junín
+152;11.0;Junín
+153;3.0;Junín
+154;7.0;Junín
+155;4.0;Junín
+156;10.0;Junín
+157;10.0;Junín
+158;12.0;Junín
+159;6.0;Junín
+160;3.0;Junín
+161;5.0;Junín
+162;9.0;Junín
+163;6.0;Junín
+164;8.0;Junín
+165;9.0;Junín
+166;3.0;Junín
+167;12.0;Junín
+168;8.0;Junín
+169;11.0;Junín
+170;3.0;Junín
+171;6.0;Junín
+172;6.0;Junín
+173;9.0;Junín
+174;7.0;Junín
+175;6.0;Junín
+176;7.0;Junín
+177;10.0;Junín
+178;5.0;Junín
+179;7.0;Junín
+180;7.0;Junín
+181;3.0;Junín
+182;8.0;Junín
+183;6.0;Junín
+184;11.0;Junín
+185;11.0;Junín
+186;8.0;Junín
+187;3.0;Junín
+188;8.0;Junín
+189;10.0;Junín
+190;4.0;Junín
+191;4.0;Junín
+192;10.0;Junín
+193;10.0;Junín
+194;12.0;Junín
+195;10.0;Junín
+196;8.0;Junín
+197;11.0;Junín
+198;3.0;Junín
+199;9.0;Junín
+200;4.0;Junín
+201;10.0;Junín
+202;3.0;Junín
+203;8.0;Junín
+204;8.0;Junín
+205;4.0;Junín
+206;11.0;Junín
+207;12.0;Junín
+208;6.0;Junín
+209;6.0;Junín
+210;5.0;Junín
+211;6.0;Junín
+212;6.0;Junín
+213;4.0;Junín
+214;12.0;Junín
+215;9.0;Junín
+216;6.0;Junín
+217;3.0;Junín
+218;11.0;Junín
+219;4.0;Junín
+220;11.0;Junín
+221;11.0;Junín
+222;9.0;Junín
+223;11.0;Junín
+224;11.0;Junín
+225;11.0;Junín
+226;3.0;Junín
+227;12.0;Junín
+228;4.0;Junín
+229;3.0;Junín
+230;3.0;Junín
+231;7.0;Junín
+232;11.0;Junín
+233;3.0;Junín
+234;6.0;Junín
+235;9.0;Junín
+236;8.0;Junín
+237;4.0;Junín
+238;3.0;Junín
+239;9.0;Junín
+240;3.0;Junín
+241;4.0;Junín
+242;5.0;Junín
+243;6.0;Junín
+244;3.0;Junín
+245;6.0;Junín
+246;4.0;Junín
+247;8.0;Junín
+248;11.0;Junín
+249;5.0;Junín
+250;5.0;Tandil
+251;5.0;Tandil
+252;4.0;Tandil
+253;10.0;Tandil
+254;8.0;Tandil
+255;5.0;Tandil
+256;8.0;Tandil
+257;3.0;Tandil
+258;5.0;Tandil
+259;12.0;Tandil
+260;9.0;Tandil
+261;5.0;Tandil
+262;12.0;Tandil
+263;5.0;Tandil
+264;8.0;Tandil
+265;10.0;Tandil
+266;6.0;Tandil
+267;8.0;Tandil
+268;9.0;Tandil
+269;4.0;Tandil
+270;7.0;Tandil
+271;7.0;Tandil
+273;12.0;Tandil
+274;7.0;Tandil
+275;6.0;Tandil
+276;10.0;Tandil
+277;5.0;Tandil
+278;5.0;Tandil
+279;12.0;Tandil
+280;8.0;Tandil
+281;9.0;Tandil
+282;3.0;Tandil
+283;11.0;Tandil
+284;9.0;Tandil
+285;10.0;Tandil
+286;4.0;Tandil
+287;8.0;Tandil
+288;7.0;Tandil
+289;10.0;Tandil
+290;5.0;Tandil
+291;9.0;Tandil
+292;3.0;Tandil
+293;4.0;Tandil
+294;7.0;Tandil
+295;3.0;Tandil
+296;12.0;Tandil
+297;6.0;Tandil
+298;6.0;Tandil
+299;3.0;Tandil
+300;10.0;Tandil
+301;10.0;Tandil
+302;3.0;Tandil
+303;5.0;Tandil
+304;3.0;Tandil
+305;6.0;Tandil
+306;11.0;Tandil
+307;5.0;Tandil
+308;5.0;Tandil
+309;12.0;Tandil
+310;3.0;Tandil
+311;8.0;Tandil
+312;4.0;Tandil
+313;12.0;Tandil
+314;7.0;Tandil
+315;4.0;Tandil
+316;11.0;Tandil
+317;3.0;Tandil
+318;4.0;Tandil
+319;5.0;Tandil
+320;8.0;Tandil
+321;4.0;Tandil
+322;11.0;Tandil
+323;10.0;Tandil
+324;12.0;Tandil
+325;9.0;Tandil
+326;8.0;Tandil
+327;4.0;Tandil
+328;11.0;Tandil
+329;3.0;Tandil
+330;10.0;Tandil
+331;11.0;Tandil
+332;12.0;Tandil
+333;8.0;Tandil
+334;3.0;Tandil
+335;7.0;Tandil
+336;6.0;Tandil
+337;5.0;Tandil
+338;11.0;Tandil
+339;9.0;Tandil
+340;10.0;Tandil
+341;8.0;Tandil
+342;3.0;Tandil
+343;7.0;Tandil
+344;10.0;Tandil
+345;5.0;Tandil
+346;3.0;Tandil
+347;5.0;Tandil
+348;8.0;Tandil
+349;3.0;Tandil
+350;4.0;Tandil
+351;10.0;Tandil
+352;12.0;Tandil
+353;8.0;Tandil
+354;3.0;Tandil
+355;10.0;Tandil
+356;9.0;Tandil
+357;7.0;Tandil
+358;9.0;Tandil
+359;6.0;Tandil
+360;9.0;Tandil
+361;6.0;Tandil
+362;7.0;Tandil
+363;9.0;Tandil
+364;5.0;Tandil
+365;3.0;Tandil
+366;10.0;Tandil
+367;12.0;Tandil
+368;9.0;Tandil
+369;9.0;Tandil
+370;4.0;Tandil
+371;5.0;Tandil
+372;9.0;Tandil
+373;4.0;Tandil
+374;6.0;Tandil
+375;4.0;Tandil
+376;9.0;Tandil
+377;4.0;Tandil
+378;8.0;Tandil
+379;8.0;Tandil
+380;12.0;Tandil
+381;7.0;Tandil
+382;5.0;Tandil
+383;5.0;Tandil
+384;7.0;Tandil
+385;3.0;Tandil
+386;11.0;Tandil
+387;11.0;Tandil
+388;8.0;Tandil
+389;4.0;Tandil
+390;12.0;Tandil
+391;8.0;Tandil
+392;7.0;Tandil
+393;4.0;Tandil
+394;8.0;Tandil
+395;10.0;Tandil
+396;4.0;Tandil
+397;4.0;Tandil
+398;9.0;Tandil
+399;9.0;Tandil
+400;6.0;Tandil
+401;12.0;Tandil
+402;9.0;Tandil
+403;9.0;Tandil
+404;4.0;Tandil
+405;11.0;Tandil
+406;5.0;Tandil
+407;9.0;Tandil
+408;4.0;Tandil
+409;6.0;Tandil
+410;4.0;Tandil
+411;9.0;Tandil
+412;7.0;Tandil
+413;7.0;Tandil
+414;10.0;Tandil
+415;10.0;Tandil
+416;9.0;Tandil
+417;4.0;Tandil
+418;5.0;Tandil
+419;8.0;Tandil
+420;8.0;Tandil
+421;5.0;Tandil
+422;7.0;Tandil
+423;6.0;Tandil
+424;4.0;Tandil
+425;12.0;Tandil
+426;11.0;Tandil
+427;12.0;Tandil
+428;10.0;Tandil
+429;9.0;Tandil
+430;12.0;Tandil
+431;6.0;Tandil
+432;5.0;Tandil
+433;11.0;Tandil
+434;10.0;Tandil
+435;6.0;Tandil
+436;3.0;Tandil
+437;4.0;Tandil
+438;11.0;Tandil
+439;12.0;Tandil
+440;6.0;Tandil
+441;5.0;La Plata
+442;3.0;La Plata
+443;11.0;La Plata
+444;10.0;La Plata
+445;10.0;La Plata
+446;9.0;La Plata
+447;10.0;La Plata
+448;12.0;La Plata
+449;8.0;La Plata
+450;3.0;La Plata
+451;5.0;La Plata
+452;6.0;La Plata
+453;3.0;La Plata
+454;9.0;La Plata
+455;3.0;La Plata
+456;9.0;La Plata
+457;11.0;La Plata
+458;6.0;La Plata
+459;8.0;La Plata
+460;5.0;La Plata
+461;10.0;La Plata
+462;5.0;La Plata
+463;8.0;La Plata
+464;9.0;La Plata
+465;11.0;La Plata
+466;12.0;La Plata
+467;4.0;La Plata
+468;6.0;La Plata
+469;10.0;La Plata
+470;9.0;La Plata
+471;11.0;La Plata
+472;3.0;La Plata
+473;5.0;La Plata
+474;5.0;La Plata
+475;8.0;La Plata
+476;8.0;La Plata
+477;10.0;La Plata
+478;12.0;La Plata
+479;4.0;La Plata
+480;11.0;La Plata
+481;8.0;La Plata
+482;6.0;La Plata
+483;5.0;La Plata
+484;5.0;La Plata
+485;5.0;La Plata
+486;12.0;La Plata
+487;12.0;La Plata
+488;5.0;La Plata
+489;8.0;La Plata
+490;11.0;La Plata
+491;5.0;La Plata
+492;12.0;La Plata
+493;11.0;La Plata
+494;9.0;La Plata
+495;9.0;La Plata
+496;8.0;La Plata
+497;3.0;La Plata
+498;7.0;La Plata
+499;11.0;La Plata
+500;7.0;La Plata
+501;8.0;La Plata
+502;12.0;La Plata
+503;7.0;La Plata
+504;11.0;La Plata
+505;4.0;La Plata
+506;11.0;La Plata
+507;6.0;La Plata
+508;3.0;La Plata
+509;3.0;La Plata
+510;9.0;La Plata
+511;3.0;La Plata
+512;12.0;La Plata
+513;3.0;La Plata
+514;4.0;La Plata
+515;11.0;La Plata
+516;6.0;La Plata
+517;10.0;La Plata
+518;7.0;La Plata
+519;4.0;La Plata
+520;10.0;La Plata
+521;10.0;La Plata
+522;7.0;La Plata
+523;3.0;La Plata
+524;6.0;La Plata
+525;8.0;La Plata
+526;8.0;La Plata
+527;11.0;La Plata
+528;10.0;La Plata
+529;8.0;La Plata
+530;6.0;La Plata
+531;6.0;La Plata
+532;10.0;La Plata
+533;10.0;La Plata
+534;12.0;La Plata
+535;9.0;La Plata
+536;10.0;La Plata
+537;5.0;La Plata
+538;10.0;La Plata
+539;6.0;La Plata
+540;4.0;La Plata
+541;4.0;La Plata
+542;4.0;La Plata
+543;7.0;La Plata
+544;8.0;La Plata
+545;8.0;La Plata
+546;3.0;La Plata
+547;5.0;La Plata
+548;12.0;La Plata
+549;10.0;La Plata
+550;10.0;La Plata
+551;10.0;La Plata
+552;10.0;La Plata
+553;9.0;La Plata
+554;11.0;La Plata
+555;9.0;La Plata
+556;11.0;La Plata
+557;4.0;La Plata
+558;7.0;La Plata
+559;12.0;La Plata
+560;3.0;La Plata
+561;10.0;La Plata
+562;12.0;La Plata
+563;4.0;La Plata
+564;9.0;La Plata
+565;5.0;La Plata
+566;5.0;La Plata
+567;5.0;La Plata
+568;4.0;La Plata
+569;10.0;La Plata
+570;3.0;La Plata
+571;9.0;La Plata
+572;11.0;La Plata
+573;10.0;La Plata
+574;11.0;La Plata
+575;9.0;La Plata
+576;9.0;La Plata
+577;7.0;La Plata
+578;5.0;La Plata
+579;12.0;La Plata
+580;9.0;La Plata
+581;11.0;La Plata
+582;5.0;La Plata
+583;12.0;La Plata
+584;4.0;La Plata
+585;4.0;La Plata
+586;3.0;La Plata
+587;12.0;La Plata
+588;4.0;La Plata
+589;8.0;La Plata
+590;12.0;Mar del Plata
+591;9.0;Mar del Plata
+592;6.0;Mar del Plata
+593;9.0;Mar del Plata
+594;5.0;Mar del Plata
+595;11.0;Mar del Plata
+596;11.0;Mar del Plata
+597;12.0;Mar del Plata
+598;12.0;Mar del Plata
+599;8.0;Mar del Plata
+600;4.0;Mar del Plata
+601;9.0;Mar del Plata
+602;3.0;Mar del Plata
+603;6.0;Mar del Plata
+604;11.0;Mar del Plata
+605;8.0;Mar del Plata
+606;4.0;Mar del Plata
+607;11.0;Mar del Plata
+608;3.0;Mar del Plata
+609;11.0;Mar del Plata
+610;6.0;Mar del Plata
+611;6.0;Mar del Plata
+612;6.0;Mar del Plata
+613;3.0;Mar del Plata
+614;6.0;Mar del Plata
+615;7.0;Mar del Plata
+616;8.0;Mar del Plata
+617;11.0;Mar del Plata
+618;5.0;Mar del Plata
+619;4.0;Mar del Plata
+620;12.0;Mar del Plata
+621;6.0;Mar del Plata
+622;6.0;Mar del Plata
+623;3.0;Mar del Plata
+624;4.0;Mar del Plata
+625;11.0;Mar del Plata
+626;3.0;Mar del Plata
+627;12.0;Mar del Plata
+628;12.0;Mar del Plata
+629;12.0;Mar del Plata
+630;12.0;Mar del Plata
+631;7.0;Mar del Plata
+632;10.0;Mar del Plata
+633;11.0;Mar del Plata
+634;7.0;Mar del Plata
+635;10.0;Mar del Plata
+636;11.0;Mar del Plata
+637;4.0;Mar del Plata
+638;5.0;Mar del Plata
+639;11.0;Mar del Plata
+640;8.0;Mar del Plata
+641;11.0;Mar del Plata
+642;9.0;Mar del Plata
+643;4.0;Mar del Plata
+644;5.0;Mar del Plata
+645;12.0;Mar del Plata
+646;12.0;Mar del Plata
+647;7.0;Mar del Plata
+648;10.0;Mar del Plata
+649;6.0;Mar del Plata
+650;4.0;Mar del Plata
+651;5.0;Mar del Plata
+652;12.0;Mar del Plata
+653;4.0;Mar del Plata
+654;8.0;Mar del Plata
+655;10.0;Mar del Plata
+656;3.0;Mar del Plata
+657;7.0;Mar del Plata
+658;10.0;Mar del Plata
+659;5.0;Mar del Plata
+660;3.0;Mar del Plata
+661;3.0;Mar del Plata
+662;10.0;Mar del Plata
+663;8.0;Mar del Plata
+664;6.0;Mar del Plata
+665;8.0;Mar del Plata
+666;10.0;Mar del Plata
+667;7.0;Mar del Plata
+668;3.0;Mar del Plata
+669;6.0;Mar del Plata
+670;8.0;Mar del Plata
+671;7.0;Mar del Plata
+672;3.0;Mar del Plata
+673;8.0;Mar del Plata
+674;6.0;Mar del Plata
+675;6.0;Mar del Plata
+676;5.0;Mar del Plata
+677;9.0;Mar del Plata
+678;11.0;Mar del Plata
+679;11.0;Mar del Plata
+680;11.0;Mar del Plata
+681;8.0;Mar del Plata
+682;11.0;Mar del Plata
+683;6.0;Mar del Plata
+684;3.0;Mar del Plata
+685;5.0;Mar del Plata
+686;5.0;Mar del Plata
+687;4.0;Mar del Plata
+688;6.0;Mar del Plata
+689;12.0;Mar del Plata
+691;7.0;Mar del Plata
+692;10.0;Mar del Plata
+693;10.0;Mar del Plata
+694;9.0;Mar del Plata
+695;3.0;Mar del Plata
+696;12.0;Mar del Plata
+697;5.0;Mar del Plata
+698;3.0;Mar del Plata
+699;11.0;Mar del Plata
+700;10.0;Mar del Plata
+701;4.0;Mar del Plata
+702;12.0;Mar del Plata
+703;10.0;Mar del Plata
+704;4.0;Mar del Plata
+705;7.0;Mar del Plata
+706;9.0;Mar del Plata
+707;5.0;Mar del Plata
+708;4.0;Mar del Plata
+709;9.0;Mar del Plata
+710;6.0;Mar del Plata
+711;7.0;Mar del Plata
+712;3.0;Mar del Plata
+713;8.0;Mar del Plata
+714;8.0;Mar del Plata
+715;10.0;Mar del Plata
+716;12.0;Mar del Plata
+717;9.0;Mar del Plata
+718;4.0;Mar del Plata
+719;3.0;Mar del Plata
+720;12.0;Mar del Plata
+721;5.0;Mar del Plata
+722;11.0;Mar del Plata
+723;7.0;Mar del Plata
+724;6.0;Mar del Plata
+725;12.0;Mar del Plata
+726;6.0;Mar del Plata
+727;7.0;Mar del Plata
+728;7.0;Mar del Plata
+729;11.0;Mar del Plata
+730;8.0;Mar del Plata
+731;6.0;Mar del Plata
+732;12.0;Mar del Plata
+733;5.0;Mar del Plata
+734;5.0;Mar del Plata
+735;8.0;Mar del Plata
+736;9.0;Mar del Plata
+737;12.0;Mar del Plata
+738;10.0;Mar del Plata
+739;3.0;Mar del Plata
+740;8.0;Mar del Plata
+741;8.0;Mar del Plata
+742;9.0;Mar del Plata
+743;9.0;Mar del Plata
+744;7.0;Mar del Plata
+745;12.0;Mar del Plata
+746;11.0;Mar del Plata
+747;9.0;Mar del Plata
+748;4.0;Mar del Plata
+749;3.0;Mar del Plata
+750;12.0;Mar del Plata
+751;3.0;Mar del Plata
+752;3.0;Mar del Plata
+753;10.0;Mar del Plata
+754;8.0;Mar del Plata
+755;9.0;Mar del Plata
+756;7.0;Mar del Plata
+757;12.0;Mar del Plata
+758;3.0;Mar del Plata
+759;11.0;Mar del Plata
+760;4.0;Mar del Plata
+761;7.0;Mar del Plata
+762;7.0;Mar del Plata
+763;3.0;Mar del Plata
+764;6.0;Mar del Plata
+765;7.0;Mar del Plata
+766;5.0;Mar del Plata
+767;3.0;Mar del Plata
+768;8.0;Mar del Plata
+769;7.0;Mar del Plata
+770;3.0;Mar del Plata
+771;11.0;Mar del Plata
+772;8.0;Mar del Plata
+773;8.0;Mar del Plata
+774;4.0;Mar del Plata
+775;11.0;Mar del Plata
+776;11.0;Mar del Plata
+777;11.0;Mar del Plata
+778;12.0;Mar del Plata
+779;3.0;Mar del Plata
+780;10.0;Mar del Plata
+781;3.0;Mar del Plata
+782;3.0;Mar del Plata
+783;11.0;Mar del Plata
+784;8.0;Mar del Plata
+785;5.0;Mar del Plata
+786;11.0;Mar del Plata
+787;4.0;Mar del Plata
+788;9.0;Mar del Plata
+789;5.0;Mar del Plata
+790;3.0;Mar del Plata
+791;4.0;Mar del Plata
+792;4.0;Mar del Plata
+793;8.0;Mar del Plata
+794;9.0;Mar del Plata
+795;12.0;Mar del Plata
+796;3.0;Mar del Plata
+797;6.0;Mar del Plata
+798;9.0;Mar del Plata
+799;6.0;Mar del Plata
+800;11.0;Mar del Plata
+801;6.0;Mar del Plata
+802;7.0;Mar del Plata
+803;8.0;Mar del Plata
+804;6.0;Mar del Plata
+805;4.0;Mar del Plata
+806;3.0;Mar del Plata
+807;5.0;Mar del Plata
+808;12.0;Mar del Plata
+809;9.0;Mar del Plata
+810;7.0;Mar del Plata
+811;7.0;Mar del Plata
+812;4.0;Mar del Plata
+813;5.0;Mar del Plata
+814;10.0;Mar del Plata
+815;4.0;Mar del Plata
+816;4.0;Mar del Plata
+817;12.0;Mar del Plata
+818;5.0;Mar del Plata
+819;12.0;Mar del Plata
+820;8.0;Mar del Plata
+821;8.0;Mar del Plata
+822;8.0;Mar del Plata
+823;9.0;Mar del Plata
+824;4.0;Mar del Plata
+825;5.0;Mar del Plata
+826;12.0;Mar del Plata
+827;12.0;Mar del Plata
+828;5.0;Mar del Plata
+829;10.0;Mar del Plata
+830;11.0;Mar del Plata
+831;9.0;Mar del Plata
+832;8.0;Mar del Plata
+833;5.0;Mar del Plata
+834;5.0;Mar del Plata
+835;12.0;Mar del Plata
+836;3.0;Mar del Plata
+837;10.0;Mar del Plata
+838;12.0;Mar del Plata
+839;10.0;Mar del Plata
+840;10.0;Mar del Plata
+841;4.0;Mar del Plata
+842;10.0;Mar del Plata
+843;9.0;Mar del Plata
+844;10.0;Mar del Plata
+845;11.0;Mar del Plata
+846;11.0;Mar del Plata
+847;12.0;Mar del Plata
+848;12.0;Mar del Plata
+849;11.0;Mar del Plata
+850;7.0;Mar del Plata
+851;10.0;Mar del Plata
+852;10.0;Mar del Plata
+853;12.0;Mar del Plata
+854;11.0;Mar del Plata
+855;11.0;Mar del Plata
+856;5.0;Mar del Plata
+857;8.0;Mar del Plata
+858;11.0;Mar del Plata
+859;9.0;Mar del Plata
+860;8.0;Mar del Plata
+861;10.0;Mar del Plata
+862;7.0;Mar del Plata
+863;7.0;Mar del Plata
+864;3.0;Mar del Plata
+865;3.0;Mar del Plata
+866;5.0;Mar del Plata
+867;12.0;Mar del Plata
+868;5.0;Mar del Plata
+869;9.0;Mar del Plata
+870;10.0;Mar del Plata
+871;3.0;Mar del Plata
+872;5.0;Mar del Plata
+873;6.0;Mar del Plata
+874;11.0;Mar del Plata
+875;12.0;Mar del Plata
+876;3.0;Mar del Plata
+877;6.0;Mar del Plata
+878;7.0;Mar del Plata
+879;7.0;Mar del Plata
+880;11.0;Mar del Plata
+881;9.0;Mar del Plata
+882;10.0;Mar del Plata
+883;10.0;Mar del Plata
+884;8.0;Mar del Plata
+885;6.0;Mar del Plata
+886;11.0;Mar del Plata
+887;3.0;Mar del Plata
+888;8.0;Mar del Plata
+889;6.0;Mar del Plata
+890;7.0;Mar del Plata
+891;10.0;Mar del Plata
+892;7.0;Mar del Plata
+893;12.0;Mar del Plata
+894;11.0;Mar del Plata
+895;8.0;Mar del Plata
+896;4.0;Mar del Plata
+897;9.0;Mar del Plata
+898;12.0;Mar del Plata
+899;12.0;Mar del Plata
+900;12.0;Mar del Plata
+901;9.0;Mar del Plata
+902;5.0;Mar del Plata
+903;12.0;Mar del Plata
+904;11.0;Mar del Plata
+905;12.0;Mar del Plata
+906;7.0;Mar del Plata
+907;11.0;Mar del Plata
+908;7.0;Mar del Plata
+909;4.0;Mar del Plata
+910;5.0;Mar del Plata
+911;7.0;Mar del Plata
+912;4.0;Mar del Plata
+913;10.0;Mar del Plata
+914;10.0;Mar del Plata
+915;7.0;Mar del Plata
+916;8.0;Mar del Plata
+917;12.0;Mar del Plata
+918;12.0;Mar del Plata
+919;11.0;Mar del Plata
+920;4.0;Mar del Plata
+921;12.0;Mar del Plata
+922;4.0;Mar del Plata
+923;9.0;Mar del Plata
+924;3.0;Mar del Plata
+925;10.0;Mar del Plata
+926;4.0;Mar del Plata
+927;11.0;Mar del Plata
+928;4.0;Mar del Plata
+929;10.0;Mar del Plata
+930;7.0;Mar del Plata
+931;12.0;Mar del Plata
+932;12.0;Mar del Plata
+933;5.0;Mar del Plata
+934;5.0;Mar del Plata
+935;9.0;Mar del Plata
+936;7.0;Mar del Plata
+937;8.0;Mar del Plata
+938;4.0;Mar del Plata
+939;10.0;Mar del Plata
+940;10.0;Mar del Plata
+941;3.0;Mar del Plata
+942;11.0;Mar del Plata
+943;9.0;Mar del Plata
+944;6.0;Mar del Plata
+945;8.0;Mar del Plata
+946;7.0;Mar del Plata
+947;10.0;Mar del Plata
+948;5.0;Mar del Plata
+949;11.0;Mar del Plata
+950;7.0;Mar del Plata
+951;3.0;Mar del Plata
+952;9.0;Olavarría
+953;12.0;Olavarría
+954;4.0;Olavarría
+955;12.0;Olavarría
+956;9.0;Olavarría
+957;8.0;Olavarría
+958;11.0;Olavarría
+959;3.0;Olavarría
+960;3.0;Olavarría
+961;11.0;Olavarría
+962;3.0;Olavarría
+963;4.0;Olavarría
+964;5.0;Olavarría
+966;12.0;Olavarría
+967;6.0;Olavarría
+968;10.0;Olavarría
+969;9.0;Olavarría
+970;11.0;Olavarría
+971;6.0;Olavarría
+972;12.0;Olavarría
+973;12.0;Olavarría
+974;9.0;Olavarría
+975;3.0;Olavarría
+976;10.0;Olavarría
+977;3.0;Olavarría
+978;9.0;Olavarría
+979;9.0;Olavarría
+980;8.0;Olavarría
+981;7.0;Olavarría
+982;12.0;Olavarría
+983;5.0;Olavarría
+984;12.0;Olavarría
+985;4.0;Olavarría
+986;9.0;Olavarría
+987;9.0;Olavarría
+988;6.0;Olavarría
+989;11.0;Olavarría
+990;3.0;Olavarría
+991;4.0;Olavarría
+992;9.0;Olavarría
+993;3.0;Olavarría
+994;6.0;Olavarría
+995;8.0;Olavarría
+996;12.0;Olavarría
+997;6.0;Olavarría
+998;6.0;Olavarría
+999;7.0;Olavarría
